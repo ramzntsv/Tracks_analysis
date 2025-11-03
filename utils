@@ -1,0 +1,3 @@
+API_KEY = 'v3.r.139408539.e5b3fb5e52fe71cc272193c32009b3007d5e1da4.acfa6c07daf2e3e96ee15d737926fdb7ca91e902'
+
+api_inctruction_url = 'https://api.superjob.ru/?utm_source=chatgpt.com#search_vacanices'
